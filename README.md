@@ -9,7 +9,7 @@
 - Git e Github
 
 ## Descrição 📖
-Nesse projeto dei meus primeiros passos utilizando HTML e CSS. Resultando nessa landing page, aprendi conceitos básicos de estruturação através do HTML e estilização através do CSS. Depois de ter aprendido um pouco sobre as tags semânticas, decidi implementá-las também. 
+Projeto de landing page feito no Stage 2 do curso Explorer da Rocketseat. Nesse projeto dei meus primeiros passos utilizando HTML e CSS. Resultando nessa landing page, aprendi conceitos básicos de estruturação através do HTML e estilização através do CSS. Depois de ter aprendido um pouco sobre as tags semânticas, decidi implementá-las também. 
 
 ## Contato ⭐
 victormatheus.mpm@gmail.com
