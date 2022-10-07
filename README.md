@@ -1,6 +1,7 @@
-# Projeto 1 Stage2 🚀
-![preview](imagem.png)
-[🔗 Clique aqui para acessar](link)
+# Projeto 1 Parte 1 Stage 2 🚀
+![preview](./.github/preview.png)
+
+[🔗 Clique aqui para acessar](https://victorm-mp.github.io/Projeto1-Stage2/)
 
 ## Tecnologias 🛠
 - HTML
@@ -12,4 +13,5 @@ Nesse projeto dei meus primeiros passos utilizando HTML e CSS. Resultando nessa 
 
 ## Contato ⭐
 victormatheus.mpm@gmail.com
+
 www.linkedin.com/in/victormatheus-mp
