@@ -1,4 +1,4 @@
-# Projeto 1 Parte 1 Stage 2 🚀
+# Projeto 1 Stage 2 Parte 1 🚀
 ![preview](./.github/preview.png)
 
 [🔗 Clique aqui para acessar](https://victorm-mp.github.io/Projeto1-Stage2/)
